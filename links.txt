@@ -1,0 +1,10 @@
+1. https://getbootstrap.com/docs/5.0/getting-started/introduction/
+2. https://fonts.google.com/specimen/Open+Sans?preview.size=64&preview.layout=row&query=open+sans
+3. https://getbootstrap.com/docs/5.0/components/navbar/
+4. https://cdnjs.com/libraries/font-awesome/4.7.0
+5. https://jqueryui.com/tabs/
+6. https://codepen.io/winkerVSbecks/pen/wrZQQm
+7. https://fontawesome.com/v4/icons/
+8. https://kenwheeler.github.io/slick/
+9. https://cdnjs.com/libraries/slick-carousel
+10.https://animate.style/
